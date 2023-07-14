@@ -1,0 +1,318 @@
+
+Активные подключения
+
+  Имя    Локальный адрес        Внешний адрес          Состояние
+  TCP    0.0.0.0:135            DESKTOP-6EJJG7F:0      LISTENING
+  RpcSs
+ [svchost.exe]
+  TCP    0.0.0.0:445            DESKTOP-6EJJG7F:0      LISTENING
+ Не удается получить сведения о владельце
+  TCP    0.0.0.0:5040           DESKTOP-6EJJG7F:0      LISTENING
+  CDPSvc
+ [svchost.exe]
+  TCP    0.0.0.0:5357           DESKTOP-6EJJG7F:0      LISTENING
+ Не удается получить сведения о владельце
+  TCP    0.0.0.0:49664          DESKTOP-6EJJG7F:0      LISTENING
+ [lsass.exe]
+  TCP    0.0.0.0:49665          DESKTOP-6EJJG7F:0      LISTENING
+ Не удается получить сведения о владельце
+  TCP    0.0.0.0:49666          DESKTOP-6EJJG7F:0      LISTENING
+  EventLog
+ [svchost.exe]
+  TCP    0.0.0.0:49667          DESKTOP-6EJJG7F:0      LISTENING
+  Schedule
+ [svchost.exe]
+  TCP    0.0.0.0:59553          DESKTOP-6EJJG7F:0      LISTENING
+ Не удается получить сведения о владельце
+  TCP    25.42.124.196:139      DESKTOP-6EJJG7F:0      LISTENING
+ Не удается получить сведения о владельце
+  TCP    26.208.162.106:139     DESKTOP-6EJJG7F:0      LISTENING
+ Не удается получить сведения о владельце
+  TCP    127.0.0.1:1434         DESKTOP-6EJJG7F:0      LISTENING
+ [sqlservr.exe]
+  TCP    127.0.0.1:6463         DESKTOP-6EJJG7F:0      LISTENING
+ [Discord.exe]
+  TCP    192.168.0.108:139      DESKTOP-6EJJG7F:0      LISTENING
+ Не удается получить сведения о владельце
+  TCP    192.168.0.108:50433    162.159.134.234:https  ESTABLISHED
+ [Discord.exe]
+  TCP    192.168.0.108:53619    20.199.120.85:https    ESTABLISHED
+  WpnService
+ [svchost.exe]
+  TCP    192.168.0.108:54954    yandex:https           ESTABLISHED
+ [chrome.exe]
+  TCP    192.168.0.108:55450    37.17.119.136:https    CLOSE_WAIT
+ [SearchApp.exe]
+  TCP    192.168.0.108:55452    152.199.21.118:https   CLOSE_WAIT
+ [SearchApp.exe]
+  TCP    192.168.0.108:55578    log:https              ESTABLISHED
+ [chrome.exe]
+  TCP    192.168.0.108:55907    158.120.16.241:https   ESTABLISHED
+ [hamachi-2.exe]
+  TCP    192.168.0.108:55910    ws-in-f188:5228        ESTABLISHED
+ [chrome.exe]
+  TCP    192.168.0.108:56363    yandex:https           ESTABLISHED
+ [chrome.exe]
+  TCP    192.168.0.108:56366    bs:https               ESTABLISHED
+ [chrome.exe]
+  TCP    192.168.0.108:56445    bs:https               ESTABLISHED
+ [chrome.exe]
+  TCP    192.168.0.108:56451    yandex:https           ESTABLISHED
+ [chrome.exe]
+  TCP    192.168.0.108:56488    yandex:https           ESTABLISHED
+ [chrome.exe]
+  TCP    192.168.0.108:56543    yandex:https           ESTABLISHED
+ [chrome.exe]
+  TCP    192.168.0.108:58145    fra16s45-in-f3:https   ESTABLISHED
+ [chrome.exe]
+  TCP    192.168.0.108:58146    fra16s45-in-f3:https   ESTABLISHED
+ [chrome.exe]
+  TCP    192.168.0.108:61335    93.186.225.201:https   ESTABLISHED
+ [chrome.exe]
+  TCP    192.168.0.108:61345    93.186.225.201:https   ESTABLISHED
+ [chrome.exe]
+  TCP    192.168.0.108:64061    149.154.167.41:https   ESTABLISHED
+ [Telegram.exe]
+  TCP    192.168.0.108:64946    162.159.128.235:https  ESTABLISHED
+ [Discord.exe]
+  TCP    192.168.56.1:139       DESKTOP-6EJJG7F:0      LISTENING
+ Не удается получить сведения о владельце
+  TCP    [::]:135               DESKTOP-6EJJG7F:0      LISTENING
+  RpcSs
+ [svchost.exe]
+  TCP    [::]:445               DESKTOP-6EJJG7F:0      LISTENING
+ Не удается получить сведения о владельце
+  TCP    [::]:5357              DESKTOP-6EJJG7F:0      LISTENING
+ Не удается получить сведения о владельце
+  TCP    [::]:49664             DESKTOP-6EJJG7F:0      LISTENING
+ [lsass.exe]
+  TCP    [::]:49665             DESKTOP-6EJJG7F:0      LISTENING
+ Не удается получить сведения о владельце
+  TCP    [::]:49666             DESKTOP-6EJJG7F:0      LISTENING
+  EventLog
+ [svchost.exe]
+  TCP    [::]:49667             DESKTOP-6EJJG7F:0      LISTENING
+  Schedule
+ [svchost.exe]
+  TCP    [::]:59553             DESKTOP-6EJJG7F:0      LISTENING
+ Не удается получить сведения о владельце
+  TCP    [::1]:1434             DESKTOP-6EJJG7F:0      LISTENING
+ [sqlservr.exe]
+  TCP    [::1]:49668            DESKTOP-6EJJG7F:0      LISTENING
+ [jhi_service.exe]
+  UDP    0.0.0.0:500            *:*                    
+  IKEEXT
+ [svchost.exe]
+  UDP    0.0.0.0:3702           *:*                    
+  FDResPub
+ [svchost.exe]
+  UDP    0.0.0.0:3702           *:*                    
+  FDResPub
+ [svchost.exe]
+  UDP    0.0.0.0:4500           *:*                    
+  IKEEXT
+ [svchost.exe]
+  UDP    0.0.0.0:5050           *:*                    
+  CDPSvc
+ [svchost.exe]
+  UDP    0.0.0.0:5353           *:*                    
+ [chrome.exe]
+  UDP    0.0.0.0:5353           *:*                    
+ [chrome.exe]
+  UDP    0.0.0.0:5353           *:*                    
+ [chrome.exe]
+  UDP    0.0.0.0:5353           *:*                    
+ [chrome.exe]
+  UDP    0.0.0.0:5353           *:*                    
+ [chrome.exe]
+  UDP    0.0.0.0:5353           *:*                    
+ [chrome.exe]
+  UDP    0.0.0.0:5353           *:*                    
+ [chrome.exe]
+  UDP    0.0.0.0:5353           *:*                    
+ [chrome.exe]
+  UDP    0.0.0.0:5353           *:*                    
+ [chrome.exe]
+  UDP    0.0.0.0:5353           *:*                    
+  Dnscache
+ [svchost.exe]
+  UDP    0.0.0.0:5353           *:*                    
+ [chrome.exe]
+  UDP    0.0.0.0:5353           *:*                    
+ [chrome.exe]
+  UDP    0.0.0.0:5353           *:*                    
+ [chrome.exe]
+  UDP    0.0.0.0:5353           *:*                    
+ [chrome.exe]
+  UDP    0.0.0.0:5353           *:*                    
+ [chrome.exe]
+  UDP    0.0.0.0:5353           *:*                    
+ [chrome.exe]
+  UDP    0.0.0.0:5353           *:*                    
+ [chrome.exe]
+  UDP    0.0.0.0:5353           *:*                    
+ [chrome.exe]
+  UDP    0.0.0.0:5353           *:*                    
+ [chrome.exe]
+  UDP    0.0.0.0:5355           *:*                    
+  Dnscache
+ [svchost.exe]
+  UDP    0.0.0.0:50848          *:*                    
+ [Discord.exe]
+  UDP    0.0.0.0:60490          *:*                    
+  FDResPub
+ [svchost.exe]
+  UDP    0.0.0.0:64410          *:*                    
+ [hamachi-2.exe]
+  UDP    25.42.124.196:137      *:*                    
+ Не удается получить сведения о владельце
+  UDP    25.42.124.196:138      *:*                    
+ Не удается получить сведения о владельце
+  UDP    25.42.124.196:1900     *:*                    
+  SSDPSRV
+ [svchost.exe]
+  UDP    25.42.124.196:2177     *:*                    
+  QWAVE
+ [svchost.exe]
+  UDP    25.42.124.196:59820    *:*                    
+  SSDPSRV
+ [svchost.exe]
+  UDP    26.208.162.106:137     *:*                    
+ Не удается получить сведения о владельце
+  UDP    26.208.162.106:138     *:*                    
+ Не удается получить сведения о владельце
+  UDP    26.208.162.106:1900    *:*                    
+  SSDPSRV
+ [svchost.exe]
+  UDP    26.208.162.106:2177    *:*                    
+  QWAVE
+ [svchost.exe]
+  UDP    26.208.162.106:59819   *:*                    
+  SSDPSRV
+ [svchost.exe]
+  UDP    127.0.0.1:1900         *:*                    
+  SSDPSRV
+ [svchost.exe]
+  UDP    127.0.0.1:57376        *:*                    
+  iphlpsvc
+ [svchost.exe]
+  UDP    127.0.0.1:59823        *:*                    
+  SSDPSRV
+ [svchost.exe]
+  UDP    192.168.0.108:137      *:*                    
+ Не удается получить сведения о владельце
+  UDP    192.168.0.108:138      *:*                    
+ Не удается получить сведения о владельце
+  UDP    192.168.0.108:1900     *:*                    
+  SSDPSRV
+ [svchost.exe]
+  UDP    192.168.0.108:2177     *:*                    
+  QWAVE
+ [svchost.exe]
+  UDP    192.168.0.108:59822    *:*                    
+  SSDPSRV
+ [svchost.exe]
+  UDP    192.168.0.108:64409    *:*                    
+ [hamachi-2.exe]
+  UDP    192.168.56.1:137       *:*                    
+ Не удается получить сведения о владельце
+  UDP    192.168.56.1:138       *:*                    
+ Не удается получить сведения о владельце
+  UDP    192.168.56.1:1900      *:*                    
+  SSDPSRV
+ [svchost.exe]
+  UDP    192.168.56.1:2177      *:*                    
+  QWAVE
+ [svchost.exe]
+  UDP    192.168.56.1:59821     *:*                    
+  SSDPSRV
+ [svchost.exe]
+  UDP    [::]:500               *:*                    
+  IKEEXT
+ [svchost.exe]
+  UDP    [::]:3702              *:*                    
+  FDResPub
+ [svchost.exe]
+  UDP    [::]:3702              *:*                    
+  FDResPub
+ [svchost.exe]
+  UDP    [::]:4500              *:*                    
+  IKEEXT
+ [svchost.exe]
+  UDP    [::]:5353              *:*                    
+ [chrome.exe]
+  UDP    [::]:5353              *:*                    
+ [chrome.exe]
+  UDP    [::]:5353              *:*                    
+ [chrome.exe]
+  UDP    [::]:5353              *:*                    
+ [chrome.exe]
+  UDP    [::]:5353              *:*                    
+ [chrome.exe]
+  UDP    [::]:5353              *:*                    
+ [chrome.exe]
+  UDP    [::]:5353              *:*                    
+ [chrome.exe]
+  UDP    [::]:5353              *:*                    
+ [chrome.exe]
+  UDP    [::]:5353              *:*                    
+  Dnscache
+ [svchost.exe]
+  UDP    [::]:5353              *:*                    
+ [chrome.exe]
+  UDP    [::]:5353              *:*                    
+ [chrome.exe]
+  UDP    [::]:5355              *:*                    
+  Dnscache
+ [svchost.exe]
+  UDP    [::]:60491             *:*                    
+  FDResPub
+ [svchost.exe]
+  UDP    [::1]:1900             *:*                    
+  SSDPSRV
+ [svchost.exe]
+  UDP    [::1]:59818            *:*                    
+  SSDPSRV
+ [svchost.exe]
+  UDP    [2620:9b::192a:7cc4]:2177  *:*                    
+  QWAVE
+ [svchost.exe]
+  UDP    [fdfd::1ad0:a26a]:2177  *:*                    
+  QWAVE
+ [svchost.exe]
+  UDP    [fe80::498f:6f4b:3cf9:1a63%4]:1900  *:*                    
+  SSDPSRV
+ [svchost.exe]
+  UDP    [fe80::498f:6f4b:3cf9:1a63%4]:2177  *:*                    
+  QWAVE
+ [svchost.exe]
+  UDP    [fe80::498f:6f4b:3cf9:1a63%4]:59815  *:*                    
+  SSDPSRV
+ [svchost.exe]
+  UDP    [fe80::8d33:24d1:c0bc:9842%15]:1900  *:*                    
+  SSDPSRV
+ [svchost.exe]
+  UDP    [fe80::8d33:24d1:c0bc:9842%15]:2177  *:*                    
+  QWAVE
+ [svchost.exe]
+  UDP    [fe80::8d33:24d1:c0bc:9842%15]:59816  *:*                    
+  SSDPSRV
+ [svchost.exe]
+  UDP    [fe80::92a0:7c2e:31e2:5344%5]:1900  *:*                    
+  SSDPSRV
+ [svchost.exe]
+  UDP    [fe80::92a0:7c2e:31e2:5344%5]:2177  *:*                    
+  QWAVE
+ [svchost.exe]
+  UDP    [fe80::92a0:7c2e:31e2:5344%5]:59817  *:*                    
+  SSDPSRV
+ [svchost.exe]
+  UDP    [fe80::9da1:a7ee:7869:d8e0%21]:1900  *:*                    
+  SSDPSRV
+ [svchost.exe]
+  UDP    [fe80::9da1:a7ee:7869:d8e0%21]:2177  *:*                    
+  QWAVE
+ [svchost.exe]
+  UDP    [fe80::9da1:a7ee:7869:d8e0%21]:59814  *:*                    
+  SSDPSRV
+ [svchost.exe]
